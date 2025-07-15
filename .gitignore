@@ -1,0 +1,12 @@
+# Datos de configuración interna de n8n
+~/.n8n
+
+# Variables de entorno con tus claves
+.env
+
+# Dependencias locales (si llegas a usar Node)
+node_modules/
+
+# Archivos de sistema de macOS y Windows
+.DS_Store
+Thumbs.db
