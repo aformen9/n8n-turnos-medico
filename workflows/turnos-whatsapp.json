@@ -1,0 +1,33 @@
+{
+  "name": "Turnos por WhatsApp",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "webhook/whatsapp",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        -192,
+        32
+      ],
+      "id": "d05ff7c3-fc59-4cfe-85b7-adcbd6239264",
+      "name": "Webhook",
+      "webhookId": "2ebf91e8-5e97-4cc9-b3b4-9fa035092589"
+    }
+  ],
+  "pinData": {},
+  "connections": {},
+  "active": true,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "22097801-b4f4-49b4-ac51-3951983b8282",
+  "meta": {
+    "instanceId": "9df28b2304e6271b67b8e83ac768462e7b07ceba90832130ae3ff39311d53acd"
+  },
+  "id": "hEKjpRapenu9jsm6",
+  "tags": []
+}
